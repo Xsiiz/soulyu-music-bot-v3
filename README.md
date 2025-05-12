@@ -1,10 +1,6 @@
 # soulyu-music-bot-v3
 soulyu-music-bot-v3
 
-# ชื่อบอทของคุณ (เช่น Soulyu Music Bot V3)
-
-[คำอธิบายสั้นๆ เกี่ยวกับบอท]
-
 ## คุณสมบัติหลัก
 * เล่นเพลงจาก YouTube (ชื่อ, URL, Playlist, Mix)
 * ระบบคิวเพลง (เพิ่ม, ลบ, ดูคิว, ล้างคิว)
